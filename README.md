@@ -12,3 +12,10 @@ Data Analyst team for CIB (นักวิเคราะห์ข้อมู�
 7. ML / Generative AI
 8. Prompt Engineering
 9. GitHub
+
+## Image
+![Data Analyst](https://jessup.edu/wp-content/uploads/2024/01/Is-Data-Analyst-a-Stressful-Job.jpg)
+
+## Contact ME
+สามารถติดต่อได้ที่ wirachan52@gmail.com
+
